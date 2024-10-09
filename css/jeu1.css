@@ -20,15 +20,15 @@ body {
 }
 
 .container {
-    height: 400px;
-    width: 500px;
+    height: 800px;
+    width: 1000px;
     border: 1px solid black;
     cursor: crosshair;
     position: relative;
     padding: 20px;
     display: flex;
     align-items: center;
-    background-color: #b0a3a3;
+    background-color: #fff;
     box-shadow: 0 0 rgba(0, 0, 0, 0.1);
     border-radius: 6px;
     overflow: hidden;
